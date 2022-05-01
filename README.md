@@ -32,4 +32,5 @@ Use arrows to change snake direction
 #### TODO:
 
 - Game over (snake death by self-collision)
+- Make it readable
 - Make it tiny even more!
